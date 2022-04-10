@@ -2,7 +2,7 @@
     color: var(--text-primary);
     background-color: var(--text-secondary);
     border: 12px solid var(--accent);
-    margin: auto;
+    margin: 2rem auto;
     text-align: center;
     transition: all .5s;
     width: 300px;

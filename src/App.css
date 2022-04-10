@@ -18,8 +18,8 @@ button {
   border: 2px var(--text-primary) solid;
   float: right;
   transition: all .5s;
-  width: 10%;
   margin: 0 auto;
   border-radius: 5px;
   line-height: 40px;
+  cursor: pointer;
 }
